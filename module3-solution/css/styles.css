@@ -30,6 +30,12 @@ body {
 	text-decoration: none;
 }
 
+#nav-list {
+	margin-top: 10px;
+	text-align: center;
+	font-size: 1.8em;
+}
+
 p {
 	color: #6f9e24;
 	font-size: 175%;
